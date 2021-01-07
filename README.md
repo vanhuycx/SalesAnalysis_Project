@@ -6,7 +6,7 @@ I use Python Pandas & Python Matplotlib to analyze and answer business questions
 I also used Tableau - a data visualization tool - to have a bigger understanding about this dataset before analyzing
 Tableu public link: https://public.tableau.com/views/SalesAnalysis2019/Dashboard1?:language=en&:display_count=y&:origin=viz_share_link
 
-We start by cleaning our data. Tasks during this section include:
+**We start by cleaning our data. Tasks during this section include:**
 
 -Concatenating multiple csvs together to create a new DataFrame.
 
@@ -17,22 +17,21 @@ We start by cleaning our data. Tasks during this section include:
 -Change the type of columns (to_numeric, to_datetime)
 
 
-Once we have cleaned up our data a bit, we move the data exploration section. In this section we explore high level business questions related to our data:
+**Once we have cleaned up our data a bit, we move the data exploration section. In this section we explore high level business questions related to our data:**
 
 -What was the best month for sales? How much was earned that month?
 
 -What city sold the most product?
 
 -What time should we display advertisemens to maximize the likelihood of customer’s buying product?
-
-**Aditional question: At 12 (12pm) and 19 (7pm), what city orders the most quantity of product?
+**Aditional question: At that time/hour(s), what city orders the most quantity of product?**
 
 -What products are most often sold together?
 
 -What product sold the most? Why do you think it sold the most?
 
 
-To answer these questions we walk through many different pandas & matplotlib methods. They include:
+**To answer these questions we walk through many different pandas & matplotlib methods. They include:**
 
 -Adding columns
 
