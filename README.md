@@ -8,14 +8,16 @@ Tableu public link: https://public.tableau.com/views/SalesAnalysis2019/Dashboard
 
 We start by cleaning our data. Tasks during this section include:
 
+-Concatenating multiple csvs together to create a new DataFrame.
+
 -Drop NaN values from DataFrame
 
 -Removing rows based on a condition
 
--Change the type of columns (to_numeric, to_datetime, astype)
+-Change the type of columns (to_numeric, to_datetime)
 
 
-Once we have cleaned up our data a bit, we move the data exploration section. In this section we explore 5 high level business questions related to our data:
+Once we have cleaned up our data a bit, we move the data exploration section. In this section we explore high level business questions related to our data:
 
 -What was the best month for sales? How much was earned that month?
 
@@ -23,14 +25,14 @@ Once we have cleaned up our data a bit, we move the data exploration section. In
 
 -What time should we display advertisemens to maximize the likelihood of customer’s buying product?
 
+**Aditional question: At 12 (12pm) and 19 (7pm), what city orders the most quantity of product?
+
 -What products are most often sold together?
 
 -What product sold the most? Why do you think it sold the most?
 
 
 To answer these questions we walk through many different pandas & matplotlib methods. They include:
-
--Concatenating multiple csvs together to create a new DataFrame (pd.concat)
 
 -Adding columns
 
