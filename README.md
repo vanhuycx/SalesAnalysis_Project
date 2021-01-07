@@ -1,6 +1,8 @@
 # SalesAnalysis_Project
 This project answer some of the questions relating to random-created sales in 12 months of 2019.
 
+I created random sales data using ./DataGeneratingScript/data_generating.py. The script utilizes random modules to both selecting random data from static input and generating new data with random class.There are 12 files which represents 12 months of the 2019 sales. I will combine all 12 to one file for this analysis.
+
 I use Python Pandas & Python Matplotlib to analyze and answer business questions about 12 months worth of sales data. The data contains hundreds of thousands of electronics store purchases broken down by month, product type, cost, purchase address, etc.
 
 I also used Tableau - a data visualization tool - to have a bigger understanding about this dataset before analyzing
