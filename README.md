@@ -5,8 +5,8 @@ I created random sales data using ./DataGeneratingScript/data_generating.py. The
 
 I use Python Pandas & Python Matplotlib to analyze and answer business questions about 12 months worth of sales data. The data contains hundreds of thousands of electronics store purchases broken down by month, product type, cost, purchase address, etc.
 
-I also used Tableau - a data visualization tool - to have a bigger understanding about this dataset before analyzing
-Tableu public link: https://public.tableau.com/views/SalesAnalysis2019/Dashboard1?:language=en&:display_count=y&:origin=viz_share_link
+I also used Tableau - a data visualization tool - to obtain a bigger understanding about this dataset before analyzing.
+**Tableu public link**: https://public.tableau.com/views/SalesAnalysis2019/Dashboard1?:language=en&:display_count=y&:origin=viz_share_link
 
 **We start by cleaning our data. Tasks during this section include:**
 
