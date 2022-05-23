@@ -1,5 +1,6 @@
 # SalesAnalysis_Project
 This project answer some of the questions relating to random-created sales in 12 months of 2019.
+We can look at the analytics process in the Jupiter lab book: SalesAnalysis_NoteBook.ipynb
 
 I created random sales data using ./DataGeneratingScript/data_generating.py. The script utilizes random modules to both selecting random data from static input and generating new data with random class.There are 12 files which represents 12 months of the 2019 sales. I will combine all 12 to one file for this analysis.
 
