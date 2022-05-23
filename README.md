@@ -1,5 +1,6 @@
 # SalesAnalysis_Project
 This project answer some of the questions relating to random-created sales in 12 months of 2019.
+
 **Jupiter note book**:
 We can look at the analytics process in the Jupiter note book:
 https://github.com/vanhuycx/SalesAnalysis_Project/blob/dfc7085c724ab77d5ae151e5e2d666fcf9f8cd2f/SalesAnalysis_NoteBook.ipynb
